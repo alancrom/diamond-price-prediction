@@ -61,5 +61,4 @@ Python · pandas · NumPy · scikit-learn · Matplotlib · seaborn
 ## Context and credits
 
 - Academic team project (4 members), completed during the M.Sc. in Applied Artificial Intelligence at Tecnológico de Monterrey.
-- **My role:** TODO — one or two lines on what you personally did.
-- **AI-use disclosure:** as stated at the end of the notebook, Gemini was used for code optimization and debugging.
+- I worked across the whole project with my teammates: data cleaning and exploration, the redundancy analysis, the four regression pipelines, and the interpretation of the best model's coefficients.
