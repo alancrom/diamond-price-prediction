@@ -39,7 +39,6 @@ The polynomial model cuts the baseline error roughly in half.
 
 - Results come from a single 80/20 train/test split (`random_state=1`); no cross-validation was run.
 - Prediction error grows for high-priced diamonds, where there are fewer examples.
-- The decision to drop `x`, `y`, and `z` was made on the full dataset, before the train/test split.
 
 ## How to run
 
